@@ -1,3 +1,4 @@
+#MACHINE VISION 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:42a5f5&height=200&section=header&text=Machine%20Vision%20Project&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Image%20%26%20Video%20Processing%20using%20OpenCV&descAlignY=58&descSize=20" width="100%"/>
